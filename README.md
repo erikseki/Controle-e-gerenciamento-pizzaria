@@ -1,19 +1,16 @@
-# Controle de estoque e gerenciamento de caixa 
+# Controle e gerenciamento de um sistema de Pizzaria 
 Sistema de gestão e controle de estoque desenvolvido na linguagem de programação C
 
 # Sobre o software
-O projeto se consiste em funcionalidades que toda pizzaria precisa, porém, este sistema contém funções automatizadas e seguras para que o funcionário trabalhe de forma eficiente e prática, sempre visando a produtividade, consequentemente gerando mais rentabilidade, maior desempenho e agilidade nas tarefas diárias da pizzaria.
+O projeto se consiste em funcionalidades de uma pizzaria, porém, este sistema contém funções automatizadas e seguras para que o funcionário trabalhe de forma eficiente e prática, sempre visando a produtividade, consequentemente gerando mais rentabilidade, maior desempenho e agilidade nas tarefas diárias da pizzaria.
 
-# Dúvidas de como usar o GitHub?
-Assista os vídeos
+# Esqueleto do projeto
 
-* https://www.youtube.com/watch?v=UMhskLXJuq4
-* https://www.youtube.com/watch?v=neDiLHwXSVo
+![alt text](https://i.bb.co/)
 
-# Dúvidas de como usar a ferramenta GIT ?
-Assista a playlist
+# Modelo de processo 
 
-* https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0
+Com base no levantamento de requisitos, utilizamos o método de desenvolvimento Prototipação para adquirir melhor viabilidade do escopo.
 
 # Manual de uso
 ```
