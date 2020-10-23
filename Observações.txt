@@ -1,0 +1,9 @@
+Tela login: O programa deverá peritir duas formas de login, sendo elas 'Master' e 'Padrão'
+
+- O usuário master terá permissão de alterar salário dentre outras informações
+
+- O usuário padrão terá permissão para funcionalidades padrão...
+-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-
+Tela login: Para maior segurança na digitação da senha a mesma será exibida com '*'
+
+
