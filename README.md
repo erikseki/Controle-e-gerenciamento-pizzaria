@@ -6,7 +6,7 @@ O projeto se consiste em funcionalidades de uma pizzaria, porém, este sistema c
 
 # Esqueleto do projeto
 
-![alt text](https://i.bb.co/)
+![estruturadeMenu](https://user-images.githubusercontent.com/56083781/97179496-a57e5880-1777-11eb-9be1-dd4301592013.png)
 
 # Modelo de processo 
 
