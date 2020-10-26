@@ -1,8 +1,8 @@
 # Controle e gerenciamento de um sistema de Pizzaria 
-Sistema de gestão e controle de estoque desenvolvido na linguagem de programação C
+> Sistema de gestão e controle de estoque desenvolvido na linguagem de programação C
 
 # Sobre o software
-O projeto se consiste em funcionalidades de uma pizzaria, porém, este sistema contém funções automatizadas e seguras para que o funcionário trabalhe de forma eficiente e prática, sempre visando a produtividade, consequentemente gerando mais rentabilidade, maior desempenho e agilidade nas tarefas diárias da pizzaria.
+> O projeto se consiste em funcionalidades de uma pizzaria, porém, este sistema contém funções automatizadas e seguras para que o funcionário trabalhe de forma eficiente e prática, sempre visando a produtividade, consequentemente gerando mais rentabilidade, maior desempenho e agilidade nas tarefas diárias da pizzaria.
 
 # Esqueleto do projeto
 
@@ -10,7 +10,7 @@ O projeto se consiste em funcionalidades de uma pizzaria, porém, este sistema c
 
 # Modelo de processo 
 
-Com base no levantamento de requisitos,adquirimos informações relevantes para a divisão de tarefas de forma a fazer uma decomposição dos processos de negócio até chegar em operações com baixo nível de granularidade,portanto utilizamos um dos métodos de processos chamado Prototipação para adquirir melhor viabilidade do escopo do projeto ao longo do desenvolvimento. É de grande importância citarmos que para atingir o mais próximo dos cronogramas estabelecidos seria necessário implantar o sistema com suas funcionalidades em 6 meses, visto que, apresentado a documentação e o sistema juntos.
+> Com base no levantamento de requisitos,adquirimos informações relevantes para a divisão de tarefas de forma a fazer uma decomposição dos processos de negócio até chegar em operações com baixo nível de granularidade,portanto utilizamos um dos métodos de processos chamado Prototipação para adquirir melhor viabilidade do escopo do projeto ao longo do desenvolvimento. É de grande importância citarmos que para atingir o mais próximo dos cronogramas estabelecidos seria necessário implantar o sistema com suas funcionalidades em 6 meses, visto que, apresentado a documentação e o sistema juntos.
 
 # Manual de uso
 ```
