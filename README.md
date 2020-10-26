@@ -10,7 +10,7 @@ O projeto se consiste em funcionalidades de uma pizzaria, porém, este sistema c
 
 # Modelo de processo 
 
-Com base no levantamento de requisitos, utilizamos o método de desenvolvimento Prototipação para adquirir melhor viabilidade do escopo.
+<h2>Com base no levantamento de requisitos, utilizamos o método de desenvolvimento Prototipação para adquirir melhor viabilidade do escopo.</h2>
 
 # Manual de uso
 ```
