@@ -4,6 +4,8 @@
                       :S
 -->
 
+[![Forks][forks-shield]][forks-url]
+
 # Controle e gerenciamento de um sistema de Pizzaria 
 > Sistema de gestão e controle de estoque desenvolvido na linguagem de programação C
 
