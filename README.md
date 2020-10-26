@@ -56,6 +56,6 @@ número referente a ação que irá fazer.
 
 <!--Alguns links para estudos e pesquisas para as demais informações-->
 # Pesquisa
-![Aprender sobre github](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)<br/>
-![GitHub Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br/>
+* [Aprender sobre github](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)<br/>
+* [GitHub Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br/>
 
