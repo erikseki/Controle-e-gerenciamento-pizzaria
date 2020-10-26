@@ -11,7 +11,7 @@
 > O projeto se consiste em funcionalidades de uma pizzaria, porém, este sistema contém funções automatizadas e seguras para que o funcionário trabalhe de forma eficiente e prática, sempre visando a produtividade, consequentemente gerando mais rentabilidade, maior desempenho e agilidade nas tarefas diárias da pizzaria.
 
 # Esqueleto do projeto
-<!--chamada de imagem--)
+<!--chamada de imagem-->
 ![estruturadeMenu](https://user-images.githubusercontent.com/56083781/97179496-a57e5880-1777-11eb-9be1-dd4301592013.png)
 
 # Modelo de processo 
