@@ -1,3 +1,9 @@
+<!-- #Obrigado por visualizar nosso README !!,
+     #Caso obtenha mais idéias e sugestões para 
+     #melhorar nosso Readme.md compartilhe(Folk).
+                      :S
+-->
+
 # Controle e gerenciamento de um sistema de Pizzaria 
 > Sistema de gestão e controle de estoque desenvolvido na linguagem de programação C
 
@@ -5,7 +11,7 @@
 > O projeto se consiste em funcionalidades de uma pizzaria, porém, este sistema contém funções automatizadas e seguras para que o funcionário trabalhe de forma eficiente e prática, sempre visando a produtividade, consequentemente gerando mais rentabilidade, maior desempenho e agilidade nas tarefas diárias da pizzaria.
 
 # Esqueleto do projeto
-
+<!--chamada de imagem--)
 ![estruturadeMenu](https://user-images.githubusercontent.com/56083781/97179496-a57e5880-1777-11eb-9be1-dd4301592013.png)
 
 # Modelo de processo 
@@ -40,9 +46,16 @@ número referente a ação que irá fazer.
 ```
 ![alt text](https://i.ibb.co/pRGkQYz/tela4.png)
 
+<!--Contribuidores do Projeto-->
 # Contribuidores
 * Gabriel Fernandes Lemos
 * Matheus Nunes Nepomuceno
 * Erik Hideyuki Yoshimoto Seki
 * Clayton Belarmino da Silva
 * Gabriel Franco Garcia Rodrigues de Paula
+
+<!--Alguns links para estudos e pesquisas para as demais informações-->
+# Pesquisa
+![Aprender sobre github](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)<br/>
+![GitHub Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br/>
+
