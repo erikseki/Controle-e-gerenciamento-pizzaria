@@ -85,4 +85,5 @@ número referente a ação que irá fazer.
 # Pesquisa
 * [Aprender sobre github](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)<br/>
 * [GitHub Dev Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br/>
+* [Consulte nosso documento](https://github.com/erikseki/Controle-e-gerenciamento-pizzaria/blob/main/PIM/PIM%20Atualizado%2002.12.docx)<br/>
 
