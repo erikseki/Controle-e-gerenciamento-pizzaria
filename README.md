@@ -1,6 +1,6 @@
-<!-- #Obrigado por visualizar nosso README !!,
-     #Caso obtenha mais idéias e sugestões para 
-     #melhorar nosso Readme.md compartilhe(Folk).
+<!-- #Obrigado por nos visitar !!,
+     #Caso obtenha mais idéias e sugestões e queira propor 
+     #o melhoramento do nosso Readme.md, compartilhe(Folk).
                       :S
 -->
 
@@ -18,6 +18,10 @@
 # Modelo de processo 
 
 > Com base no levantamento de requisitos,adquirimos informações relevantes para a divisão de tarefas de forma a fazer uma decomposição dos processos de negócio até chegar em operações com baixo nível de granularidade,portanto utilizamos um dos métodos de processos chamado Prototipação para adquirir melhor viabilidade do escopo do projeto ao longo do desenvolvimento. É de grande importância citarmos que para atingir o mais próximo dos cronogramas estabelecidos seria necessário implantar o sistema com suas funcionalidades em 6 meses, visto que, apresentado a documentação e o sistema juntos.
+
+# Proposta Sistêmica
+
+> O programa feito em linguagem C em modo console é capaz de manter as três unidades funcionando em perfeito estado, todas com as mesmas opções de menu, relatório e perdas. A opção de menu é o pilar do sistema, pois nele são efetuados os cadastros, elogios, reclamações e controle do estoque. Relatórios são para uma melhor tomada de decisão e melhor controle de viabilidade, ele apresenta sabores mais pedidos por unidade, rede que mais vende, totalização diária e mensal do faturamento por unidade de rede e total da rede. A ultima visão é a de perda, também utilizado para tomada de decisão que contém visões como cancelamentos de pedidos e tudo aquilo que influencia o faturamento da pizzaria.
 
 # Manual de uso
 ```
