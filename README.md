@@ -8,8 +8,30 @@
 # Controle e gerenciamento de um sistema de Pizzaria 
 > Sistema de gestão e controle de estoque desenvolvido na linguagem de programação C
 
+<br/>
+
+<!--Conteúdos/Sumário-->
+# Conteúdos
+* [Sobre o software](#1.Sobre-o-software)
+     * [Descrição de Contexto](#Descrição-de-Contexto)
+* [Esqueleto do projeto](#Esqueleto-do-projeto)
+* [Modelo de processo](#Modelo-de-processo)
+* [Proposta Sistêmica](#Proposta-Sistêmica)
+* [Manual de uso](#Manual-de-uso)
+* [Contribuidores](#Contribuidores)
+* [Pesquisa](#Pesquisa)
+
+<br/>
+<br/>
+<br/>
+
+***
+
 # Sobre o software
 > O projeto se consiste em funcionalidades de uma pizzaria, porém, este sistema contém funções automatizadas e seguras para que o funcionário trabalhe de forma eficiente e prática, sempre visando a produtividade, consequentemente gerando mais rentabilidade, maior desempenho e agilidade nas tarefas diárias da pizzaria.
+
+# Descrição de Contexto 
+> O sistema possui dois tipos de <i>[login](https://github.com/erikseki/Controle-e-gerenciamento-pizzaria/blob/main/Observa%C3%A7%C3%B5es.txt)</i>. Master e usuário padrão, onde o Master teria acesso a tudo que o software tem a oferecer, cadastros de produtos, clientes, funcionários, fornecedores, vendas e cancelamento de vendas, relatórios de faturamento, sejam eles diários, mensais e totais, entre outras coisas. Já o usuário padrão, somente a vendas, isso por motivos de segurança e hierarquia.
 
 # Esqueleto do projeto
 <!--chamada de imagem-->
