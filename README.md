@@ -12,7 +12,7 @@
 
 <!--Conteúdos/Sumário-->
 # Conteúdos
-* [Sobre o software](#1.Sobre-o-software)
+* [Sobre o software](#Sobre-o-software)
      * [Descrição de Contexto](#Descrição-de-Contexto)
 * [Esqueleto do projeto](#Esqueleto-do-projeto)
 * [Modelo de processo](#Modelo-de-processo)
