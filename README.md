@@ -1,6 +1,6 @@
 <!-- #Obrigado por nos visitar !!,
      #Caso obtenha mais idéias e sugestões e queira propor 
-     #o melhoramento do nosso Readme.md, compartilhe(Folk).
+     #ao melhoramento do nosso Readme.md, compartilhe(Folk).
                       :S
 -->
 
